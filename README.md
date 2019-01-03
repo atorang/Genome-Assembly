@@ -3,8 +3,8 @@ https://stepik.org/lesson/196/step/1?unit=8239
 
 Step by Step Functions to:
 
-Applying Euler's Theorem to Assemble Genomes,
+Apply Euler's Theorem to Assemble Genomes,
 
-Sequencing Antibiotics,
+Sequence Antibiotics,
 
-Spectra for Antibiotics Sequencing
+Use Spectra for Antibiotics Sequencing
